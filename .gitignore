@@ -1,0 +1,7 @@
+# Ignore backend static and uploads
+backend/static/
+backend/uploads/
+# Ignore data sample images
+data/sample_images/
+# Ignore node_modules
+frontend/node_modules/
